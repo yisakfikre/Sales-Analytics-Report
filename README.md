@@ -194,7 +194,7 @@ Values are rounded for display. See [Data Validation](DATA_VALIDATION.md) for th
 
 - [SaaS Growth & Unit Economics](https://github.com/yisakfikre/SaaS-Growth-and-Unit-Economics)
 - [Marketing Campaign Performance](https://github.com/yisakfikre/Marketing-Campaign-Performance-Report)
-- [Gross Margin Bridge](https://github.com/yisakfikre/Gross-Margin-Bridge-Report)
+- [Gross Margin Bridge](https://github.com/yisakfikre/Gross-Margin-Bridge-Dashboard)
 
 ---
 
